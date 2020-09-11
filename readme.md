@@ -1,4 +1,4 @@
-#### This an announcement repo for our work 
+#### This an announcement repo
 *Fifth Arabic Natural Language Processing Workshop (WANLP 2020), Barcelona, Spain, 12 Dec. 2020*
 # Machine Generation and Detection of Arabic Manipulated and Fake News (WANLP 2020)
 <img src="https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/news_map.jpg" width="55%" style="border: 1px solid black;" align="right"/>
