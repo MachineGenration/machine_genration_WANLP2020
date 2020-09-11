@@ -14,5 +14,5 @@ In order to study misinformation/disinformation in Arabic news, we develop, **Ar
 
 #### Donwload AraNews:
   - [AraNews Zeroshot train]()
-  - [AraNews 2x train]()
-  - [AraNews 5x train]()
+  - [AraNews Zeroshot 2x train]()
+  - [AraNews Zeroshot 5x train]()
