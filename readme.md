@@ -11,6 +11,7 @@ We exploit a number of Arabic Treebanks from the Linguistic Data Consortium (LDC
 ### AraNews: A New Large-Scale Arabic News Dataset
 <span style="color:red; font-family:Georgia; text-align:center; font-size:2em;">
 In order to study misinformation/disinformation in Arabic news, we develop, **AraNews**, a large-scale, multi-topic, and  multi-country Arabic news dataset. To create the dataset, we start by manually creating a list of 50 newspapers belonging to 15 Arab countries, the United States of America (USA), and the United Kingdom (UK). Then, we  scrape the news articles from this list of newspapers. Ultimately, we collected a total of  5,187,957 news articles.<span>
+
 #### Donwload AraNews:
   - (AraNews Zeroshot)[]
   - (AraNews 2x)[]
