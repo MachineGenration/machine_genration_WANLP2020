@@ -31,4 +31,4 @@ In order to study misinformation/disinformation in Arabic news, we develop, **Ar
 You can donwload the Khouja's dataset from [Github](https://github.com/latynt/ans)
 
 ## Models
-We will upload the best model for machine generation and fake news detection on [huggingface.co](https://huggingface.co/models) once the paper has accepted.
+We will upload the best model for machine generation and fake news detection on [huggingface.co](https://huggingface.co/models) once the paper has accepted. Moreover, we will provide a notebooks for models usage
