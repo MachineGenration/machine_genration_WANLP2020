@@ -9,10 +9,10 @@ Fake news and deceptive machine-generated text comprise a serious problem threat
 ### ATB: Arabic TreeBank
 
 Arabic Treebank (ATB) which are a collection of Arabic news stories built as part of   of the [DARPA TIDES project](https://www.ldc.upenn.edu/collaborations/past-projects):
- - Part 1 v 4.1 (LDC2010T13)
- - Part 2 v 3.1 (LDC2011T09)
- - Part 3 v 3.2 (LDC2010T08)
- - Broadcast News v 1.0 (LDC2012T07)
+ - Part 1 v 4.1 ([LDC2010T13](https://catalog.ldc.upenn.edu/LDC2010T13))
+ - Part 2 v 3.1 ([LDC2011T09](https://catalog.ldc.upenn.edu/LDC2011T09))
+ - Part 3 v 3.2 ([LDC2010T08](https://catalog.ldc.upenn.edu/LDC2010T08))
+ - Broadcast News v 1.0 ([LDC2012T07](https://catalog.ldc.upenn.edu/LDC2012T07))
  
 ### AraNews: A New Large-Scale Arabic News Dataset
 
