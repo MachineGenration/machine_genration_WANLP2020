@@ -30,3 +30,5 @@ In order to study misinformation/disinformation in Arabic news, we develop, **Ar
 ### ANS: Arabic News Stance Corpus 
 You can donwload the Khouja's dataset from [Github](https://github.com/latynt/ans)
 
+## Models
+`We will add the best model for machine generation and fake news detection with once the paper has accepted.`
