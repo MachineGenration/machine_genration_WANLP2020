@@ -28,5 +28,5 @@ In order to study misinformation/disinformation in Arabic news, we develop, **Ar
   - [ZeroShot_train_ArNews_5X.part02.rar](https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/ZeroShot_train_ArNews_5X.part02.rar)
   
 ### ANS: Arabic News Stance Corpus 
-You can donwload the Khouja's dataset from [Github=(https://github.com/latynt/ans)
+You can donwload the Khouja's dataset from [Github](https://github.com/latynt/ans)
 
